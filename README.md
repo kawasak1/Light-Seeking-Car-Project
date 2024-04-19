@@ -42,5 +42,5 @@ Further improvements can be made by integrating more sensors, implementing obsta
 
 ## Links
 
-https://www.arduino.cc/reference/en/language/functions/math/map/
-https://docs.arduino.cc/learn/electronics/servo-motors/
+1) https://www.arduino.cc/reference/en/language/functions/math/map/
+2) https://docs.arduino.cc/learn/electronics/servo-motors/
