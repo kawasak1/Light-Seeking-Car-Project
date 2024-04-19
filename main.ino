@@ -136,7 +136,12 @@ void turnRight() {
   delay(10);
 }
 
-// map function definition https://www.arduino.cc/reference/en/language/functions/math/map/
+/* map function() definition
+  https://www.arduino.cc/reference/en/language/functions/math/map/
+  
+  using map function for Servo write function()
+  https://docs.arduino.cc/learn/electronics/servo-motors/
+*/
 
 void moveLeftTopMotor(int value) {
   leftTopMotor.write(map(value,-100,100,1000,2000));
