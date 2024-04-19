@@ -136,6 +136,8 @@ void turnRight() {
   delay(10);
 }
 
+// map function definition https://www.arduino.cc/reference/en/language/functions/math/map/
+
 void moveLeftTopMotor(int value) {
   leftTopMotor.write(map(value,-100,100,1000,2000));
 }
