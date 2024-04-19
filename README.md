@@ -1,6 +1,6 @@
-# Arduino Light Following Robot
+# Arduino Light Seeking Robot
 
-The following project provides the full code for an Arduino-based light following robot. A servo motor robot that seeks out the brightest light source it can find. 
+The following project provides the full code for an Arduino-based light-seeking robot. A servo motor robot that seeks out the brightest light source it can find. 
 
 ## Description
 
