@@ -11,20 +11,20 @@ This code uses Arduino's Servo library to control the motors and standard IO fun
 ### Motors Pins:
 ```
 (4) o---o (6)
-    |
-    |
+      |
+      |
 (5) o---o (7)
 ```
 
 ### Sensors Pins:
 
 ```
-(A0)
-o---o
+    (A0)
+    o---o
 (A5)  |  (A1)
 (A4)  |  (A2)
-o---o
-(A3)
+    o---o
+    (A3)
 ```
 
 ## Usage
