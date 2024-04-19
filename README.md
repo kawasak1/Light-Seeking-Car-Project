@@ -39,3 +39,7 @@ In case the values for sensor A1 are exceeding, reducing it by half.
 ## Future Work
 
 Further improvements can be made by integrating more sensors, implementing obstacle avoidance, or making the robot autonomous by adding a battery power source.
+
+## Links
+
+https://www.arduino.cc/reference/en/language/functions/math/map/
